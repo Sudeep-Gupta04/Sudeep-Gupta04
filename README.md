@@ -31,3 +31,9 @@ I'm a passionate problem solver from IIITV-GNR who enjoys cracking complex chall
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  
+![snake gif](https://github.com/Sudeep-Gupta04/Sudeep-Gupta04/blob/output/github-snake-dark.svg)
+
+</div>
