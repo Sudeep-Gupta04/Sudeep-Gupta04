@@ -28,11 +28,11 @@ I'm a passionate problem solver from IIITV-GNR who enjoys cracking complex chall
 
 </div>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-
+![GitHub Snake](https://github.com/Sudeep-Gupta04/Sudeep-Gupta04/blob/output/github-snake-dark.svg)
 
 </div>
 
