@@ -23,8 +23,8 @@ I'm a passionate problem solver from IIITV-GNR who enjoys cracking complex chall
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="Sudeep's GitHub Stats" height="180" />
-<img src="./profile/top-langs.svg" alt="Sudeep's Top Languages" height="180" />
+<img src="profile/stats.svg" alt="Sudeep's GitHub Stats" height="180" />
+<img src="profile/top-langs.svg" alt="Sudeep's Top Languages" height="180" />
 
 </div>
 
