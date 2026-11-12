@@ -21,33 +21,23 @@ I'm a passionate problem solver from IIITV-GNR who enjoys cracking complex chall
 
 # GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sudeep-Gupta04&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Sudeep-Gupta04&theme=radical&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep-Gupta04&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=Sudeep-Gupta04&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="./profile/stats.svg" alt="Sudeep's GitHub Stats" height="180" />
+<img src="./profile/top-langs.svg" alt="Sudeep's Top Languages" height="180" />
 
 </div>
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🐍 Contribution Snake
 
 <div align="center">
-  
-![snake gif](https://github.com/Sudeep-Gupta04/Sudeep-Gupta04/blob/output/github-snake-dark.svg)
+
+
+
+</div>
+
+<div align="center">
+
+
 
 </div>
